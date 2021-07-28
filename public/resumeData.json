@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Thomas Harrison",
-    "description":"I am a Technology enthusiast who's usually too lazy to do anything after work, but decided to do this because why not? Used some other guy's template from GitHub and made the necessary changes because if we're being honest, I can't code my way out of a paper bag.",
+    "description":"I am a Technology enthusiast who's usually too lazy to do anything after work, but decided to do this because I was bored. Used some other guy's template from GitHub and made the necessary changes because if we're being honest, I can't code my way out of a paper bag",
     "image":"profilepic.png",
     "bio":"Graduated UConn in 2016 and started working for Travelers in their Technology Leadership Developement Program (TLDP). Over the four years I spent in the program, I had rotations as a Scrum Master, Security Architect, Software Engineer, and DevOps Engineer/Product Owner. I am now in my current role of DevOps Engineer/Product Owner.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -43,6 +43,36 @@
         "url":"https://github.com/ttrain57",
         "className":"fa fa-github"
       }
+    ],
+    "testimonials":[
+      {
+        "user":"Brian Finnegan",
+        "text":"Tom can easily lift more than me. He's really taught me a lot at the gym"
+      },
+      {
+        "user":"Tom's Mom",
+        "text":"Perfect, just like his Mom"
+      },
+      {
+        "user":"Tom's Dad",
+        "text":"Perfect, just like his Dad"
+      },
+      {
+        "user":"Jeff Bezos",
+        "text":"Who the hell is Tom Harrison?"
+      },
+      {
+        "user":"Jeremy Clavette",
+        "text":"Unapologetically weird and will never change"
+      },
+      {
+        "user":"Jack Hart",
+        "text":"I don't know why he's even part of our friend group"
+      },
+      {
+        "user":"Honey, Tom's Dog",
+        "text":"Bark Bark"
+      }
     ]
   },
   "resume":{
@@ -52,10 +82,16 @@
         "school":"University of Connecticut",
         "degree":"Bachelor of Science in Busines - Management Information Systems",
         "graduated":"May 2016",
-        "description":"Pretty much a whole lot of binge drinking with friends and doing just enough work to pass with a B+ average."
+        "description":"Pretty much a whole lot of binge drinking with friends and doing just enough work to pass with a B+ average. Was Jonathan the Husky, UConn's mascot my freshman year"
       }
     ],
     "work":[
+      {
+        "company":"Travelers Insurance",
+        "title":"DevOps Engineer & Product Owner",
+        "years":"January 2020 - Present",
+        "description":"Determine stategic priorities for DevOps organization when it comes to AppDev customer support, automation, and self-service capabilities. Also highly engaged in the enterprise initiative of Software Engineering Excellence - particularly in creating an Enterprise DevSecOps CI/CD Pipeline."
+      },
       {
         "company":"Travelers Insurance",
         "title":"Technology Leadership Development Program",
@@ -64,9 +100,21 @@
       },
       {
         "company":"Travelers Insurance",
+        "title":"Software Engineer",
+        "years":"January 2019 - December 2019",
+        "description":" Worked as Javascript developer for our Customer Identity and Access Managment group. Organized and facilitated Developer Coaching Sessions to educate engineers about systems, architecture, and technologies leveraged by Travelers."
+      },
+      {
+        "company":"Travelers Insurance",
+        "title":"Security Architect",
+        "years":"January 2018 - December 2018",
+        "description":"Conducted security reviews for the procurement of third-party technologies. Assessed multiple CASB(Cloud Access Security Broker) offerings. Created Slack app security and tech governance guidelines."
+      },
+      {
+        "company":"Travelers Insurance",
         "title":"Scrum Master",
-        "years":"June 2016 - December 2018",
-        "description":"TBD"
+        "years":"June 2016 - December 2017",
+        "description":"Facilitated meetings and agile ceremonies for team. Removed blockers and looke for process improvements through the analysis of Rally metrics. Maintained the project budget through resource allocations."
       }
     ],
     "skills":[
