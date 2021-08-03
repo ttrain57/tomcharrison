@@ -43,9 +43,9 @@ class About extends Component {
                       {city} {state}, {zip}
                     </span>
                     <br />
-                    <span>{phone}</span>
+                    <a href="tel:2035223280"><span>{phone}</span></a>
                     <br />
-                    <span>{email}</span>
+                    <a href="mailto:tharrison5794@gmail.com"><span>{email}</span></a>
                   </p>
                 </div>
                 <div className="columns download">
