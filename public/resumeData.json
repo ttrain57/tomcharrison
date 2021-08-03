@@ -1,31 +1,31 @@
 {
   "main": {
     "name":"Thomas Harrison",
-    "description":"I am a Technology enthusiast who's usually too lazy to do anything after work, but decided to do this because I was bored. Used some other guy's template from GitHub and made the necessary changes because if we're being honest, I can't code my way out of a paper bag",
+    "description":"I have been working in Technology for the past five years at Travelers Insurance. During the first four years in their Technology Leadership Developement Program (TLDP), I had rotational roles as a Scrum Master, Security Architect, Software Engineer, and DevOps Engineer/Product Owner. I am now in my current role of DevOps Engineer/Product Owner as a TLDP graduate",
     "image":"profilepic.png",
-    "bio":"Graduated UConn in 2016 and started working for Travelers in their Technology Leadership Developement Program (TLDP). Over the four years I spent in the program, I had rotations as a Scrum Master, Security Architect, Software Engineer, and DevOps Engineer/Product Owner. I am now in my current role of DevOps Engineer/Product Owner.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Tech enthusiast who enjoys reading, playing D&D with friends, breweries, and traveling the world.",
+    "contactmessage":"Hit me up",
     "email": "tharrison5794@gmail.com",
     "phone": "203-522-3280",
     "github":"https://github.com/ttrain57",
-    "project":"hhttps://github.com/ttrain57/tomcharrison",
+    "project":"https://github.com/ttrain57/tomcharrison",
     "address":{
-      "street":"(7 Old Purdy Station Rd)",
-      "city":"(Newtown)",
-      "state":"(CT)",
-      "zip": "(06470)"
+      "street":"7 Old Purdy Station Rd",
+      "city":"Newtown",
+      "state":"CT",
+      "zip": "06470"
     },
     "website": "http://tomcharrison.com",
     "resumedownload":"http://tomcharrison.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/tomharrison57",
         "className":"fa fa-twitter"
       },
       {
@@ -46,10 +46,6 @@
     ],
     "testimonials":[
       {
-        "user":"Brian Finnegan",
-        "text":"Tom can easily lift more than me. He's really taught me a lot at the gym"
-      },
-      {
         "user":"Tom's Mom",
         "text":"Perfect, just like his Mom"
       },
@@ -59,15 +55,7 @@
       },
       {
         "user":"Jeff Bezos",
-        "text":"Who the hell is Tom Harrison?"
-      },
-      {
-        "user":"Jeremy Clavette",
-        "text":"Unapologetically weird and will never change"
-      },
-      {
-        "user":"Jack Hart",
-        "text":"I don't know why he's even part of our friend group"
+        "text":"Who the hell is Tom Harrison and how did you get past security?"
       },
       {
         "user":"Honey, Tom's Dog",
@@ -80,9 +68,10 @@
     "education":[
       {
         "school":"University of Connecticut",
-        "degree":"Bachelor of Science in Busines - Management Information Systems",
+        "major":"Major: Management Information Systems",
+        "minor": "Minor: Spanish",
         "graduated":"May 2016",
-        "description":"Pretty much a whole lot of binge drinking with friends and doing just enough work to pass with a B+ average. Was Jonathan the Husky, UConn's mascot my freshman year"
+        "description":"Was in Delta Sigma Pi, a business fraternity focused on professional development, networking and community service. Was also Jonathan the Husky, UConn's mascot my freshman year."
       }
     ],
     "work":[
@@ -96,7 +85,7 @@
         "company":"Travelers Insurance",
         "title":"Technology Leadership Development Program",
         "years":"June 2016 - October 2020",
-        "description":"Rotational Program that provided the opportunity to experience a breadth of roles. Also took part in internal committees responsible for recruiting and interviewing interns, Charity Fundraising through hosting a Golf Tournament, and Technology Education."
+        "description":"Rotational Program that provided the opportunity to experience a breadth of roles. Also took part in internal committees responsible for recruiting and interviewing interns, charity fundraising through hosting a golf tournament, and technology education."
       },
       {
         "company":"Travelers Insurance",
@@ -128,19 +117,19 @@
         "level":"20%"
       },
       {
-        "name":"Bullshitting",
-        "level":"100%"
+        "name":"GitHub",
+        "level":"60%"
       },
       {
-        "name":"Jenkins",
+        "name":"Jenkins/CloudBees Core",
         "level":"50%"
       },
       {
         "name":"Rally",
-        "level":"100%"
+        "level":"90%"
       },
       {
-        "name":"UCD",
+        "name":"UrbanCode Deploy",
         "level":"50%"
       }
     ]
