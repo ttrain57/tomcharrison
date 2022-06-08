@@ -14,7 +14,6 @@ class Resume extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const skillmessage = this.props.data.skillmessage;
     const education = this.props.data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -44,7 +43,7 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
+ /*   const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = skills.level;
@@ -56,7 +55,7 @@ class Resume extends Component {
         </li>
       );
     });
-
+*/
     return (
       <section id="resume">
         <Slide left duration={1300}>
@@ -86,7 +85,7 @@ class Resume extends Component {
             <div className="nine columns main-col">{work}</div>
           </div>
         </Slide>
-
+{/*
         <Slide left duration={1300}>
           <div className="row skill">
             <div className="three columns header-col">
@@ -96,15 +95,16 @@ class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
-              {/* <p>{skillmessage}</p> */}
+              { <p>{skillmessage}</p> }
 
               <div className="bars">
                 <ul className="skills">{skills}</ul>
               </div>
             </div>
           </div>
-        </Slide>
+        </Slide>*/}
       </section>
+    
     );
   }
 }

@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Thomas Harrison",
-    "description":"I have been working in Technology for the past five years at Travelers Insurance. During the first four years in their Technology Leadership Developement Program (TLDP), I had rotational roles as a Scrum Master, Security Architect, Software Engineer, and DevOps Engineer/Product Owner. I am now in my current role of DevOps Engineer/Product Owner as a TLDP graduate",
+    "description":"I have been working in Technology for the past six years at Travelers Insurance. During the first four years in their Technology Leadership Developement Program (TLDP), I had rotational roles as a Project Manager, Security Architect, Software Engineer, and DevOps Engineer. I am now in my current role of DevOps Engineer/Product Manager",
     "image":"profilepic.png",
     "bio":"Tech enthusiast who enjoys reading, playing D&D with friends, breweries, and traveling the world.",
     "contactmessage":"Hit me up",
@@ -64,22 +64,21 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"University of Connecticut",
         "major":"Major: Management Information Systems",
         "minor": "Minor: Spanish",
         "graduated":"May 2016",
-        "description":"Was in Delta Sigma Pi, a business fraternity focused on professional development, networking and community service. Was also Jonathan the Husky, UConn's mascot my freshman year."
+        "description":"Member of Delta Sigma Pi, a business fraternity focused on professional development, networking and community service. Was also Jonathan the Husky, UConn's mascot."
       }
     ],
     "work":[
       {
         "company":"Travelers Insurance",
-        "title":"DevOps Engineer & Product Owner",
+        "title":"DevOps Engineer & Product Manager",
         "years":"January 2020 - Present",
-        "description":"Determine stategic priorities for DevOps organization when it comes to AppDev customer support, automation, and self-service capabilities. Also highly engaged in the enterprise initiative of Software Engineering Excellence - particularly in creating an Enterprise DevSecOps CI/CD Pipeline."
+        "description":"Determine stategic priorities for DevOps organization when it comes to AppDev support, automation, and self-service capabilities. Also highly engaged in the enterprise initiative of Software Engineering Excellence - elevating our Software Engineering tooling and practices."
       },
       {
         "company":"Travelers Insurance",
@@ -97,13 +96,13 @@
         "company":"Travelers Insurance",
         "title":"Security Architect",
         "years":"January 2018 - December 2018",
-        "description":"Conducted security reviews for the procurement of third-party technologies. Assessed multiple CASB(Cloud Access Security Broker) offerings. Created Slack app security and tech governance guidelines."
+        "description":"Conducted security reviews for the procurement of third-party technologies and created app security and tech governance guidelines. Assessed multiple CASB(Cloud Access Security Broker) offerings and provided vendor selection recommendation to Cybersecurity leadership."
       },
       {
         "company":"Travelers Insurance",
         "title":"Scrum Master",
         "years":"June 2016 - December 2017",
-        "description":"Facilitated meetings and agile ceremonies for team. Removed blockers and looke for process improvements through the analysis of Rally metrics. Maintained the project budget through resource allocations."
+        "description":"Facilitated meetings and agile ceremonies for team. Removed blockers and implemented process improvements through the analysis of Agile metrics. Managed the project budget to align with scope through resource allocations."
       }
     ],
     "skills":[
