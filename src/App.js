@@ -48,7 +48,7 @@ class App extends Component {
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
         <Testimonials data={this.state.resumeData.main} />
-        <Contact data={this.state.resumeData.main} />
+  {/*      <Contact data={this.state.resumeData.main} />*/}
         <Footer data={this.state.resumeData.main} />
       </div>
     );
