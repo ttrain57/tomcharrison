@@ -35,31 +35,31 @@ class About extends Component {
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-                    <span>{name}</span>
+                    {/*<span>{name}</span>
                     <br />
                     <span>
                       {street}
                       <br />
                       {city} {state}, {zip}
                     </span>
-                    <br />
-                    <a href="tel:2035223280"><span>{phone}</span></a>
-                    <br />
+                    <br />*/}
+                    {/*<a href="tel:2035223280"><span>{phone}</span></a>
+                    <br /> */}
                     <a href="mailto:tharrison5794@gmail.com"><span>{email}</span></a>
                   </p>
                 </div>
-                <div className="columns download">
+                {/*<div className="columns download">
                   <p>
                     <a href={resumeDownload} className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
-                </div>
+                </div>*/}
               </div>
             </div>
           </div>
         </Fade>
-      </section>
+      </section >
     );
   }
 }
