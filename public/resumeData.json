@@ -1,145 +1,150 @@
 {
   "main": {
-    "name":"Thomas Harrison",
-    "description":"I have been working in Technology for the past six years at Travelers Insurance. During the first four years in their Technology Leadership Developement Program (TLDP), I had rotational roles as a Project Manager, Security Architect, Software Engineer, and DevOps Engineer. I am now in my current role of DevOps Engineer/Product Manager",
-    "image":"profilepic.png",
-    "bio":"Tech enthusiast who enjoys reading, playing D&D with friends, breweries, and traveling the world.",
-    "contactmessage":"Hit me up",
+    "name": "Thomas Harrison",
+    "description": "I am a Software Engineering Manager working within Personal Insurance at Travelers Insurance",
+    "image": "profilepic.png",
+    "bio": "Tech enthusiast who enjoys reading, playing D&D with friends, metal detecting, and traveling the world.",
+    "contactmessage": "Hit me up",
     "email": "tharrison5794@gmail.com",
     "phone": "203-522-3280",
-    "github":"https://github.com/ttrain57",
-    "project":"https://github.com/ttrain57/tomcharrison",
-    "address":{
-      "street":"7 Old Purdy Station Rd",
-      "city":"Newtown",
-      "state":"CT",
-      "zip": "06470"
+    "github": "https://github.com/ttrain57",
+    "project": "https://github.com/ttrain57/tomcharrison",
+    "address": {
+      "street": "154 Batterson Park Rd",
+      "city": "Farmington",
+      "state": "CT",
+      "zip": "06032"
     },
     "website": "http://tomcharrison.com",
-    "resumedownload":"http://tomcharrison.com",
-    "social":[
+    "resumedownload": "http://tomcharrison.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/tomharrison57",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/tomharrison57",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tomcharrison/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tomcharrison/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tharrison57",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/tharrison57",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/ttrain57",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/ttrain57",
+        "className": "fa fa-github"
       }
     ],
-    "testimonials":[
+    "testimonials": [
       {
-        "user":"Tom's Mom",
-        "text":"Perfect, just like his Mom"
+        "user": "Tom's Mom",
+        "text": "Perfect, just like his Mom"
       },
       {
-        "user":"Tom's Dad",
-        "text":"Perfect, just like his Dad"
+        "user": "Tom's Dad",
+        "text": "Perfect, just like his Dad"
       },
       {
-        "user":"Jeff Bezos",
-        "text":"Who the hell is Tom Harrison and how did you get past security?"
+        "user": "Jeff Bezos",
+        "text": "Who the hell is Tom Harrison and how did you get past security?"
       },
       {
-        "user":"Honey, Tom's Dog",
-        "text":"Bark Bark"
+        "user": "Honey, Tom's Dog",
+        "text": "Bark Bark"
       }
     ]
   },
-  "resume":{
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"University of Connecticut",
-        "major":"Major: Management Information Systems",
+        "school": "University of Connecticut",
+        "major": "Major: Management Information Systems",
         "minor": "Minor: Spanish",
-        "graduated":"May 2016",
-        "description":"Member of Delta Sigma Pi, a business fraternity focused on professional development, networking and community service. Was also Jonathan the Husky, UConn's mascot."
+        "graduated": "May 2016",
+        "description": "Member of Delta Sigma Pi, a business fraternity focused on professional development, networking and community service. Was also Jonathan the Husky, UConn's mascot."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Travelers Insurance",
-        "title":"DevOps Engineer & Product Manager",
-        "years":"January 2020 - Present",
-        "description":"Determine stategic priorities for DevOps organization when it comes to AppDev support, automation, and self-service capabilities. Also highly engaged in the enterprise initiative of Software Engineering Excellence - elevating our Software Engineering tooling and practices."
+        "company": "Travelers Insurance",
+        "title": "Software Engineering Manager",
+        "years": "March 2023 - Present",
+        "description": "I currently own many critical systems ranging from B2B APIs, internal and exteral front ends, and internal orchestration services."
       },
       {
-        "company":"Travelers Insurance",
-        "title":"Technology Leadership Development Program",
-        "years":"June 2016 - October 2020",
-        "description":"Rotational Program that provided the opportunity to experience a breadth of roles. Also took part in internal committees responsible for recruiting and interviewing interns, charity fundraising through hosting a golf tournament, and technology education."
+        "company": "Travelers Insurance",
+        "title": "DevOps Engineer & Product Manager",
+        "years": "January 2020 - February 2023",
+        "description": "Determined strategic priorities for our DevOps organization when it came to AppDev support, environment strategy, automation, and self-service capabilities. I was also highly engaged in the enterprise initiative of Software Engineering Excellence - elevating our Software Engineering tooling and practices."
       },
       {
-        "company":"Travelers Insurance",
-        "title":"Software Engineer",
-        "years":"January 2019 - December 2019",
-        "description":" Worked as Javascript developer for our Customer Identity and Access Managment group. Organized and facilitated Developer Coaching Sessions to educate engineers about systems, architecture, and technologies leveraged by Travelers."
+        "company": "Travelers Insurance",
+        "title": "Technology Leadership Development Program",
+        "years": "June 2016 - October 2020",
+        "description": "Rotational Program that provided the opportunity to experience a breadth of roles. Also took part in internal committees responsible for recruiting and interviewing interns, charity fundraising through hosting a golf tournament, and technology education."
       },
       {
-        "company":"Travelers Insurance",
-        "title":"Security Architect",
-        "years":"January 2018 - December 2018",
-        "description":"Conducted security reviews for the procurement of third-party technologies and created app security and tech governance guidelines. Assessed multiple CASB(Cloud Access Security Broker) offerings and provided vendor selection recommendation to Cybersecurity leadership."
+        "company": "Travelers Insurance",
+        "title": "Software Engineer",
+        "years": "January 2019 - December 2019",
+        "description": "Worked as Javascript developer for our Customer Identity and Access Managment group. Organized and facilitated Developer Coaching Sessions to educate engineers about systems, architecture, and technologies leveraged by Travelers."
       },
       {
-        "company":"Travelers Insurance",
-        "title":"Scrum Master",
-        "years":"June 2016 - December 2017",
-        "description":"Facilitated meetings and agile ceremonies for team. Removed blockers and implemented process improvements through the analysis of Agile metrics. Managed the project budget to align with scope through resource allocations."
+        "company": "Travelers Insurance",
+        "title": "Security Architect",
+        "years": "January 2018 - December 2018",
+        "description": "Conducted security reviews for the procurement of third-party technologies and created app security and tech governance guidelines. Assessed multiple CASB(Cloud Access Security Broker) offerings and provided vendor selection recommendation to Cybersecurity leadership."
+      },
+      {
+        "company": "Travelers Insurance",
+        "title": "Scrum Master",
+        "years": "June 2016 - December 2017",
+        "description": "Facilitated meetings and agile ceremonies for team. Removed blockers and implemented process improvements through the analysis of Agile metrics. Managed the project budget to align with scope through resource allocations."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"10%"
-      },
-      
-      {
-        "name":"ReactJs",
-        "level":"20%"
+        "name": "Python",
+        "level": "10%"
       },
       {
-        "name":"GitHub",
-        "level":"60%"
+        "name": "ReactJs",
+        "level": "20%"
       },
       {
-        "name":"Jenkins/CloudBees Core",
-        "level":"50%"
+        "name": "GitHub",
+        "level": "60%"
       },
       {
-        "name":"Rally",
-        "level":"90%"
+        "name": "Jenkins/CloudBees Core",
+        "level": "50%"
       },
       {
-        "name":"UrbanCode Deploy",
-        "level":"50%"
+        "name": "Rally",
+        "level": "90%"
+      },
+      {
+        "name": "UrbanCode Deploy",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Fake Project",
-        "category":"IDK",
-        "image":"01.jpg",
-        "url":"https://www.tomcharrison.com"
+        "title": "Fake Project",
+        "category": "IDK",
+        "image": "01.jpg",
+        "url": "https://www.tomcharrison.com"
       }
     ]
   }
